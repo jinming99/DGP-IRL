@@ -13,6 +13,5 @@ test_result_dgpirl = runtest('deepgpirl',struct(),'linearmdp','binaryworld',stru
 
 ## Reference
 
-"Inverse reinforcement learning via deep Gaussian Process", 
-Ming Jin, Andreas Damianou, Pieter Abbeel, and Costas Spanos
-Conference on Uncertainty in Artificial Intelligence (UAI 2017)
+Ming Jin, Andreas Damianou, Pieter Abbeel, and Costas Spanos, "Inverse reinforcement learning via deep Gaussian Process", 
+In Conference on Uncertainty in Artificial Intelligence (UAI 2017)
